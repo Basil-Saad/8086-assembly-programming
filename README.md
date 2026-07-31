@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-This repository showcases a series of Intel 8086 Assembly programs developed to demonstrate fundamental and intermediate low-level programming concepts. The implementations include arithmetic operations, array and string processing, sorting algorithms, prime number analysis, and hardware interfacing applications such as buzzer control, traffic light simulation, seven-segment displays, and DC motor control. Each program includes the complete Assembly source code and its corresponding execution output.
+This repository showcases a series of Intel 8086 Assembly programs developed to demonstrate practical low-level programming techniques and hardware interfacing using Intel 8086 Assembly language. The implementations include arithmetic operations, array and string processing, sorting algorithms, prime number analysis, and hardware interfacing applications such as buzzer control, traffic light simulation, seven-segment displays, and DC motor control. Each program includes the complete Assembly source code and its corresponding execution output.
 </p>
 
 ---
