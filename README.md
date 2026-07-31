@@ -28,3 +28,7 @@ This repository showcases a series of Intel 8086 Assembly programs developed to 
 This repository presents a collection of practical Intel 8086 Assembly programs developed to strengthen low-level programming skills through real-world implementations. The projects cover a wide range of topics, including arithmetic operations, array and string processing, sorting algorithms, prime number analysis, and hardware interfacing.
 
 In addition to software-oriented algorithms, the repository demonstrates direct interaction with peripheral devices such as buzzers, traffic light systems, seven-segment displays, and DC motors using Intel 8086 Assembly language. Each implementation is organized as an individual program with its corresponding source code and execution output, providing clear examples of Assembly programming techniques and hardware control.
+
+## Implemented Programs
+
+The following programs demonstrate a range of Intel 8086 Assembly programming concepts, from arithmetic and data processing to hardware interfacing and algorithm implementation. Each program includes its complete Assembly source code together with its corresponding execution output.
