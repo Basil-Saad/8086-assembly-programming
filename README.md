@@ -43,3 +43,21 @@ The following programs demonstrate a range of Intel 8086 Assembly programming co
 | **DC Motor Control** | Controls the rotational direction of a DC motor by reading switch inputs and sending control signals through Intel 8086 I/O ports. This program demonstrates digital input/output programming, port communication, conditional branching, and hardware interfacing in Intel 8086 Assembly. | [View Code](07-dc-motor/dc-motor.asm) | <img src="07-dc-motor/output.jpg" alt="DC Motor Control Output" width="1000"> |
 | **Bubble Sort** | Sorts an array of hexadecimal values in ascending order using the Bubble Sort algorithm. This program demonstrates array manipulation, nested loops, comparison instructions, element swapping, and algorithm implementation in Intel 8086 Assembly. | [View Code](08-bubble-sort/bubble-sort.asm) | <img src="08-bubble-sort/output.jpg" alt="Bubble Sort Output" width="1000"> |
 | **Prime Number Analysis** | Analyzes an array of hexadecimal values by calculating the total sum, identifying prime numbers, counting their occurrences, and storing the computed results in memory. This program demonstrates array traversal, arithmetic operations, nested loops, division, conditional branching, memory management, and algorithm implementation in Intel 8086 Assembly. | [View Code](09-prime-number-analysis/prime-analysis.asm) | <img src="09-prime-number-analysis/output.jpg" alt="Prime Number Analysis Output" width="1000"> |
+
+## Skills Demonstrated
+
+- Intel 8086 Assembly Programming
+- Low-Level Software Development
+- Arithmetic and Logical Operations
+- Register and Memory Manipulation
+- Array Traversal and Data Processing
+- String and ASCII Processing
+- Looping and Conditional Branching
+- Sorting Algorithm Implementation
+- Prime Number Detection Algorithms
+- Digital Input/Output (I/O) Programming
+- Hardware Interfacing
+- Seven-Segment Display Control
+- Traffic Light Simulation
+- DC Motor Control
+- Software Delay Routines
