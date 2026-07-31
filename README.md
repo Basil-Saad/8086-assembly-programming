@@ -32,3 +32,6 @@ In addition to software-oriented algorithms, the repository demonstrates direct 
 ## Implemented Programs
 
 The following programs demonstrate a range of Intel 8086 Assembly programming concepts, from arithmetic and data processing to hardware interfacing and algorithm implementation. Each program includes its complete Assembly source code together with its corresponding execution output.
+| Program | Description | Source Code | Output |
+|---------|-------------|:-----------:|:------:|
+| **Arithmetic Operations** | Performs addition and subtraction on two 8-bit hexadecimal numbers and stores the resulting values together with the carry and borrow flags in memory. This program demonstrates arithmetic instructions, flag handling, register operations, and direct memory access in Intel 8086 Assembly. | [View Code](01-arithmetic/arithmetic.asm) | <img src="01-arithmetic/output.jpg" alt="Arithmetic Operations Output" width="220"> |
