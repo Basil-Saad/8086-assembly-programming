@@ -61,3 +61,9 @@ The following programs demonstrate a range of Intel 8086 Assembly programming co
 - Traffic Light Simulation
 - DC Motor Control
 - Software Delay Routines
+
+## License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute the source code in accordance with the terms of the MIT License. See the [LICENSE](LICENSE) file for complete details.
